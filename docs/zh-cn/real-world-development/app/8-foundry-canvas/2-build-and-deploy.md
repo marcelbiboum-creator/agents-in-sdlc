@@ -1,5 +1,5 @@
 ---
-title: "构建并部署代理"
+title: "构建并部署智能体"
 description: "在 Canvas 中生成 Backer Concierge 的初始框架，在本地检查，然后在 Foundry 中部署并重新测试。"
 authors:
   - juliamuiruri4

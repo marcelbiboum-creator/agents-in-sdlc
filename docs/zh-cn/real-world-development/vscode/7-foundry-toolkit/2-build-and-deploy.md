@@ -1,5 +1,5 @@
 ---
-title: "构建并部署代理"
+title: "构建并部署智能体"
 description: "在 VS Code 中生成 Backer Concierge 框架并调试，然后将其部署为 Foundry 托管代理并测试。"
 authors:
   - juliamuiruri4

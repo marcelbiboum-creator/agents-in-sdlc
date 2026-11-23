@@ -1,6 +1,7 @@
 ---
 slug: es-es/real-world-development/vscode
-title: "VS Code"
+title: "Visual Studio Code"
+description: "Utiliza Copilot Chat en modo agente, MCP y agentes personalizados en VS Code para crear y revisar cambios en Tailspin Toys."
 authors:
   - geektrainer
 lastUpdated: 2026-06-30

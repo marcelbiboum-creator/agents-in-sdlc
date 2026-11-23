@@ -6,13 +6,13 @@ authors:
 lastUpdated: 2026-09-29
 ---
 
-Has utilizado la aplicación GitHub Copilot durante un flujo continuo de Tailspin Toys. Has aprendido a:
+Has utilizado la aplicación GitHub Copilot durante un flujo continuo de Tailspin Toys. Has:
 
 - conectar un repositorio, explorar el espacio de trabajo y la lista de trabajo pendiente inicial de la aplicación y probar un chat rápido.
 - iniciar una sesión específica de valoraciones por estrellas, revisar el resultado en un lienzo de navegador y combinar manualmente tu primera solicitud de incorporación de cambios (PR).
 - partir de la incidencia de filtrado, definir el enfoque en modo **Plan**, desarrollarlo en modo **Autopilot** y revisarlo en modo **Interactive**.
 - orientar al agente con instrucciones personalizadas y después personalizar la habilidad `quality-checks` existente y utilizarla para ejecutar pruebas unitarias, lint y comprobaciones de tipos.
-- probar el trabajo con el servidor MCP de Playwright en un navegador real.
+- añadido el servidor Model Context Protocol (MCP) de Playwright y utilizado para explorar el filtrado en un navegador real.
 - crear y seleccionar un agente personalizado QA para evaluar requisitos, cobertura, resultados de scripts de la habilidad y pruebas de observación del navegador.
 - revisar el cambio completo de filtrado y autorizar **Agent Merge** para la segunda PR.
 - utilizar el lienzo Database Explorer existente y, después, crear y probar un lienzo de clasificación respaldado por el repositorio.

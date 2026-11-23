@@ -1,5 +1,5 @@
 ---
-title: "将代理连接到网站"
+title: "将智能体连接到网站"
 description: "通过本地代理服务连接托管的 Backer Concierge，并测试无障碍聊天小组件。"
 authors:
   - juliamuiruri4
